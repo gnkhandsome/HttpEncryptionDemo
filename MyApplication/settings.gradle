@@ -1,3 +1,4 @@
+include ':cryptal'
 include ':server'
 include ':app'
 rootProject.name = "My Application"
